@@ -1,1 +1,3 @@
 # 538-MontyHall
+this is my solution to the 538 Riddle known as the Monty Hall Problem...
+https://fivethirtyeight.com/features/can-you-beat-the-goat-monty-hall-problem/
