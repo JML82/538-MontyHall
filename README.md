@@ -1,5 +1,5 @@
 # The Monty Hall Problem
-this is my solution to the 538 Riddle known as the Monty Hall Problem...
+This is my solution to the 538 Riddle known as the Monty Hall Problem...
 https://fivethirtyeight.com/features/can-you-beat-the-goat-monty-hall-problem/
 
 The Monty Hall problem is a classic case of conditional probability. In the original problem, there are three doors, two of which have goats behind them, while the third has a prize. You pick one of the doors, and then Monty (who knows in advance which door has the prize) will always open another door, revealing a goat behind it. It’s then up to you to choose whether to stay with your initial guess or to switch to the remaining door. Your best bet is to switch doors, in which case you will win the prize two-thirds of the time.
